@@ -3,6 +3,10 @@
 Hive.js is an extension to dash.js that enables distributed caching of video fragments
 using direct browser-to-browser communication over WebRTC.
 
+# Version
+
+  * This version provides load balancing among high speed peers. 
+
 # Running a local demo
 
 ## Start the server
